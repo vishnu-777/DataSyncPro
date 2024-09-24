@@ -74,6 +74,7 @@
             }
         %>
     </script>
+    
 </head>
 <body>
     <h2>Add New Record to <%= UploadExcelServlet.tableName %></h2>
